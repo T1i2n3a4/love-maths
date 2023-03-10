@@ -1,1 +1,31 @@
-console.log('Connected!')
+function addGame() {
+
+}
+
+function checkAnswer() {
+
+}
+
+function calculateCorrectAnswer() {
+
+}
+
+function incrementScore() {
+
+}
+
+function incrementWrongAnswer() {
+
+}
+
+function displayAdditionQuestion() {
+
+}
+
+function displaySubtractQuestion() {
+
+}
+
+function displayMultiplyQuestion() {
+    
+}
